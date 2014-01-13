@@ -1,0 +1,4 @@
+projsem/testFiles/*.txt
+*.class
+tools/*
+resources/*
